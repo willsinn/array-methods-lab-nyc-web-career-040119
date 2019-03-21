@@ -11,7 +11,7 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  first_element = array.first(element)
+  first_element = array.first
 end
 
 def using_last(array)
