@@ -15,7 +15,7 @@ def using_first(array)
 end
 
 def using_last(array)
-  first_element = array.first()
+  last_element = array.last()
 
 end
 
