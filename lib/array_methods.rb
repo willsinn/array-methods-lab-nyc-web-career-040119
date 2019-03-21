@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array.sort(array)
+  xorted_array = array.sort()
 end
 
 def using_reverse(array)
