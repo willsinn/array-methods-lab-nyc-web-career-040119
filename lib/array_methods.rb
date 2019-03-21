@@ -7,14 +7,15 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-
+  reversed_array = array.reverse()
 end
 
 def using_first(array)
-
+  first_element = array.first()
 end
 
 def using_last(array)
+  first_element = array.first()
 
 end
 
